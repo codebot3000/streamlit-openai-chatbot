@@ -4,7 +4,7 @@ Streamlit test application for testing OpenAI LLM calls using chat completions o
 # Getting Started
 Clone code locally.
 ```powershell
-git clone 
+git clone https://github.com/codebot3000/streamlit-openai-chatbot.git
 ```
 
 # Build and Test
